@@ -6,8 +6,8 @@
         <!-- Header -->
         <header class="absolute inset-x-0 top-0 z-50">
             <x-nav/>
-            <x-mobilenav/>
-            <x-home-cta/>
+            {{--            <x-mobilenav/>--}}
+            {{--            <x-home-cta/>--}}
             <!-- Mobile menu, show/hide based on menu open state. -->
 
         </header>
@@ -16,7 +16,7 @@
         <main class="isolate">
             {{--            <section class="w-full h-screen bg-center bg-cover bg-cleaning"></section>--}}
             <!-- Hero section -->
-            <x-hero/>
+            <x-home-cta/>
 
             <!-- Logo cloud -->
             <div class="mx-auto max-w-7xl px-6 lg:px-8">

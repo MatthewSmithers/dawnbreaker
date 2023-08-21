@@ -7,5 +7,4 @@
         {{ $slot }}
     @endisset
 
-    <x-flash/>
 @endsection
