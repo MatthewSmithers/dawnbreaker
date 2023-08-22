@@ -72,5 +72,7 @@ Route::view('residential', 'residential')->name('residential');
 Route::view('about', 'about')->name('about');
 Route::view('company', 'company')->name('company');
 Route::view('quote', 'quote')->name('quote');
+Route::view('employment', 'employment')->name('employment');
+
 
 
