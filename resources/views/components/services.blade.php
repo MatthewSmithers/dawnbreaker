@@ -5,8 +5,7 @@
             <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">We offer Full Service Cleaning
                 Solutions tailored to
                 your needs.</p>
-            <p class="mt-6 text-lg leading-8 text-gray-600">Quis tellus eget adipiscing convallis sit sit eget aliquet
-                quis. Suspendisse eget egestas a elementum pulvinar et feugiat blandit at. In mi viverra elit nunc.</p>
+            <p class="mt-6 text-lg leading-8 text-gray-600">We serve both residential and commercial clients in South Salt Lake and Northern Utah counties. We plan to expand into Duchesne County during late Fall of 2023.</p>
         </div>
         <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
             <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
@@ -20,10 +19,9 @@
                                       d="M12 16.5V9.75m0 0l3 3m-3-3l-3 3M6.75 19.5a4.5 4.5 0 01-1.41-8.775 5.25 5.25 0 0110.233-2.33 3 3 0 013.758 3.848A3.752 3.752 0 0118 19.5H6.75z"/>
                             </svg>
                         </div>
-                        Residential Cleaning
+                        Residential “No Hassle” Cleaning Quotes
                     </dt>
-                    <dd class="mt-2 text-base leading-7 text-gray-600">Morbi viverra dui mi arcu sed. Tellus semper
-                        adipiscing suspendisse semper morbi. Odio urna massa nunc massa.
+                    <dd class="mt-2 text-base leading-7 text-gray-600">We offer Full Service Cleaning Packages tailored to your specific needs with our “no-hassle” quoting system. Read more…
                     </dd>
                 </div>
                 <div class="relative pl-16">
@@ -36,7 +34,7 @@
                                       d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z"/>
                             </svg>
                         </div>
-                        Commerical/Office Cleaning
+                        Comprehensive Commercial Cleaning Estimates
                     </dt>
                     <dd class="mt-2 text-base leading-7 text-gray-600">Sit quis amet rutrum tellus ullamcorper ultricies
                         libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.
@@ -54,8 +52,7 @@
                         </div>
                         Vacation Rental Cleaning
                     </dt>
-                    <dd class="mt-2 text-base leading-7 text-gray-600">Quisque est vel vulputate cursus. Risus proin
-                        diam nunc commodo. Lobortis auctor congue commodo diam neque.
+                    <dd class="mt-2 text-base leading-7 text-gray-600">We value your time as a professional and understand that each business is unique. That is why we take additional time to visit your facility. Read more…
                     </dd>
                 </div>
                 <div class="relative pl-16">

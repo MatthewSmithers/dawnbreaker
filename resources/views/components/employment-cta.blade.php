@@ -69,7 +69,7 @@
                             <dt class="sr-only">Role</dt>
                             <dd class="w-full flex-none text-lg font-semibold tracking-tight text-gray-900">
                                 <a href="#">
-                                    Franchise Owner
+                                    Sales Associate
                                     <span class="absolute inset-0" aria-hidden="true"></span>
                                 </a>
                             </dd>
@@ -79,13 +79,13 @@
                                 Benefits, & a host of support. Discover more about this opportunity.
                             </dd>
                             <dt class="sr-only">Salary</dt>
-                            <dd class="mt-4 text-base font-semibold leading-7 text-gray-900">$Unlimited/year</dd>
+                            <dd class="mt-4 text-base font-semibold leading-7 text-gray-900">Salary + Commission</dd>
                             <dt class="sr-only">Location</dt>
                             <dd class="mt-4 flex items-center gap-x-3 text-base leading-7 text-gray-500">
                                 <svg viewBox="0 0 2 2" class="h-0.5 w-0.5 flex-none fill-gray-300" aria-hidden="true">
                                     <circle cx="1" cy="1" r="1"/>
                                 </svg>
-                                Anywhere, USA
+                                Salt Lake City, UT
                             </dd>
                         </dl>
                     </li>
