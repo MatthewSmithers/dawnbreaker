@@ -4,6 +4,19 @@
             class="mx-auto grid max-w-2xl grid-cols-1 gap-x-12 gap-y-16 lg:mx-0 lg:min-w-full lg:max-w-none lg:flex-none lg:gap-y-8">
             <div class="lg:col-end-1 lg:w-full lg:max-w-lg lg:pb-8">
                 <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Our people</h2>
+                <pre>
+                    Our People
+Dawnbreaker Cleaning was founded in South Jordan, Utah by owner/operator, Lori Dawn Smithers.
+
+Our strongest asset is our people. We are a growing, happy family of professionals who pride ourselves on a “job well done.”
+
+-We are bonded, insured and trustworthy.
+-Our client’s satisfaction is guaranteed.
+-If a client is not 100% satisfied we will ensure they are before they pay.
+-We take steps to ensure that all DawnBreaker cleaning staff is honest, trained and experienced enough to handle each client’s specific cleaning needs.
+
+Join Our Team
+                </pre>
                 <p class="mt-6 text-xl leading-8 text-gray-600">Quasi est quaerat. Sit molestiae et. Provident ad
                     dolorem occaecati eos iste. Soluta rerum quidem minus ut molestiae velit error quod. Excepturi
                     quidem expedita molestias quas.</p>
