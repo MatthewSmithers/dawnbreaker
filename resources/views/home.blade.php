@@ -22,11 +22,11 @@
             <x-services/>
 
 
-            <!-- General Content Section -->
-            <x-pricing/>
+            {{--            <!-- General Content Section -->--}}
+            {{--            --}}{{--            <x-pricing/>--}}
 
-            <!-- General Content Section -->
-            <x-home-content/>
+            {{--            <!-- General Content Section -->--}}
+            {{--            --}}{{--            <x-home-content/>--}}
 
         </main>
 

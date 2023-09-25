@@ -4,5 +4,5 @@
 
     <x-nav/>
     <x-mobilenav/>
-    <h1>About Us</h1>
+    <x-about-content/>
 @endsection

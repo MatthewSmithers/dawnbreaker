@@ -8,7 +8,7 @@
             <div
                 class="mx-auto max-w-2xl lg:mx-0 lg:grid lg:max-w-none lg:grid-cols-2 lg:gap-x-16 lg:gap-y-6 xl:grid-cols-1 xl:grid-rows-1 xl:gap-x-8">
                 <h1 class="max-w-2xl text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl lg:col-span-2 xl:col-auto">
-                    Hello, I'm Lori.</h1>
+                    Hello, I'm Lori Dawn.</h1>
                 <div class="mt-6 max-w-xl lg:mt-0 xl:col-end-1 xl:row-start-1">
 
                     <p class="text-lg leading-8 text-gray-600"><strong>I started Dawnbreaker to help people like
