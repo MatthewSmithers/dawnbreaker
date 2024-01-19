@@ -8,7 +8,7 @@
                     students and anyone needing a flexible schedule. Introverted? What better way to earn money without
                     the crowds! Put in your ear buds, work away and get paid.</p>
                 <img
-                    src="https://images.unsplash.com/photo-1606857521015-7f9fcf423740?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1344&h=1104&q=80"
+                    src="images/sweeping_kitchen.jpg"
                     alt=""
                     class="mt-16 aspect-[6/5] w-full rounded-2xl bg-gray-50 object-cover lg:aspect-auto lg:h-[34.5rem]">
             </div>
